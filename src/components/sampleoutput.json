@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "'I escaped abusive jungle cult - then rescued my son'",
+            "description": "When Yisrael Amir fled the isolated sect, he brought with him tales of control, abuse and rape.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-63942615",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9198/production/_128327273_israelamir.jpg",
+            "publishedAt": "2023-02-04T06:52:19.6543386Z",
+            "content": "When Mexican police raided a self-styled Jewish sect, former members hoped it would spell the end of the group, which has been accused of crimes against children. Instead, the case collapsed and the … [+11303 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "China urges calm over 'spy' balloon in US airspace",
+            "description": "The US condemns China's intrusion as the Pentagon reports a second Chinese balloon over Latin America.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64521570",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4CCC/production/_128506691_b03b473bf844459e894e065fbe19db642b30afe30_0_1036_9971000x962.jpg",
+            "publishedAt": "2023-02-04T06:37:22.7202906Z",
+            "content": "Media caption, Watch: BBC security correspondent Gordon Corera explains the US/China row\r\nChina has urged \"cool-headed\" handling of a dispute over a giant Chinese balloon heading for the eastern US.\r… [+2767 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Agony and ecstasy of writing the president's biggest speech",
+            "description": "It's often the US president's most important address of the year - but for speechwriters it's the assignment from hell.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64493028",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/116CB/production/_128517317_gettyimages-1238865034.jpg",
+            "publishedAt": "2023-02-04T04:22:13.8726267Z",
+            "content": "As US President Joe Biden puts the finishing touches to his State of the Union address, spare a thought for the behind-the-scenes toil of the White House speechwriters, the hardest-working team in Wa… [+5568 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Eunice Dwumfour: New Jersey councilwoman fatally shot in car",
+            "description": "The state's governor said the attack felt \"specific\" and did not appear politically motivated.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64519768",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18E3/production/_128517360_co.dwumfour.jpg",
+            "publishedAt": "2023-02-04T02:37:24.6410291Z",
+            "content": "The shooting of a Republican councilwoman in her car in the US state of New Jersey has stunned her constituents.\r\nEunice Dwumfour, 30, a member of the Sayreville borough council, was found dead insid… [+1772 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Rideau Canal skating rink still closed amid mild winter",
+            "description": "The world's longest skating rink has been opening later and later as winter temperature creep up.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64519440",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10DEE/production/_128520196_gettyimages-515560712.jpg",
+            "publishedAt": "2023-02-04T01:52:15.7518423Z",
+            "content": "Despite frosty weather this week, the world's longest skating rink will be closed because of a warmer-than-average temperatures.\r\nDuring the colder months, Ottawa's Rideau Canal turns into 7.8km (4.8… [+2023 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Canadian teen wins $48m lotto jackpot on first try",
+            "description": "Sensible Juliette Lamour, 18, immediately turned to a financial planner, or Dad, as she calls him.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64519968",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F547/production/_128519726_olg02.jpg",
+            "publishedAt": "2023-02-04T01:37:14.2815908Z",
+            "content": "When Juliette Lamour won a lotto jackpot on her first try, the 18-year-old immediately turned to a financial planner, or Dad, as she calls him.\r\nShe has just scooped C$48m ($35.8; £29.7m), becoming t… [+1964 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "China balloon: Could it have been blown off course as Beijing claims?",
+            "description": "Wind speed and weather data has been used to track its possible path.",
+            "url": "http://www.bbc.co.uk/news/world-64514120",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/68C5/production/_128512862_balloon_us_china-2x-nc-40.png",
+            "publishedAt": "2023-02-04T00:07:15.2351972Z",
+            "content": "The Chinese authorities say a surveillance balloon sighted over sensitive US territory is theirs, but insist its purpose is for weather research and that it was blown off course by unexpected winds. … [+3329 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: US to provide long-range missiles in latest aid package",
+            "description": "The fresh aid worth $2.2bn (£1.83bn) includes rockets capable of striking parts of occupied Crimea.",
+            "url": "http://www.bbc.co.uk/news/world-europe-64518532",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/163A1/production/_128514019_gettyimages-1246260493.jpg",
+            "publishedAt": "2023-02-03T23:52:20.7668808Z",
+            "content": "The US says additional military aid to Ukraine worth $2.2bn (£1.83bn) will include long-range missiles capable of doubling its attack range.\r\nIt brings the total amount of military aid given to Ukrai… [+4642 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Musk found not guilty of fraud over Tesla tweet",
+            "description": "Tesla boss Elon Musk is cleared of fraud charges over a tweet about taking the carmaker private.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64520157",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2023-02-03T23:22:21.8130765Z",
+            "content": "Tesla founder Elon Musk has been cleared of wrongdoing for a tweet in which he said he had \"funding secured\" to take the electric carmaker private.\r\nMr Musk faced a class-action lawsuit filed on beha… [+385 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Historic deep freeze hits US north-east",
+            "description": "Over a dozen weather records are expected to be broken by Friday afternoon across the north-east.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64485092",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10E1E/production/_128505196_725b346deb0ef6f2b418a0a9acc7ad77ab98741e.jpg",
+            "publishedAt": "2023-02-03T14:52:18.3440854Z",
+            "content": "More than 80 million Americans are expected to face freezing temperatures as a record-breaking deep freeze hits the north-eastern US. \r\nThe frigid blast could bring \"once-in-a-generation\" wind chills… [+2480 chars]"
+        }
+    ]
+}
